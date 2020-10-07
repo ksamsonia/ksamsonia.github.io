@@ -1,0 +1,28 @@
+.red {
+    color: red;
+}
+p{
+    width: 50%;
+    color: violet;
+}
+
+#first{
+    font-size: 30px;
+    color: black;
+    background-image: url(https://s3.envato.com/files/240585674/preview.jpg);
+}
+
+#second{
+    color: orange;
+}
+.violet {
+    color: #ff00ff;
+}
+
+div.content div.first-col p {
+    color: ghostwhite !important;
+}
+h1, h2, h3 ,h4 h5, h6 {font-size: 30px}
+
+#third{ color: purple;
+}
