@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a2a1905-98c2-4577-b8a4-4ae120800f09" name="Default Changelist" comment="" />
+    <list default="true" id="4a2a1905-98c2-4577-b8a4-4ae120800f09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,18 +25,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iZDzuzgHALvnwvBwTeZIbo55bG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,11 +57,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602106486939</updated>
-      <workItem from="1602106488153" duration="602000" />
+      <workItem from="1602106488153" duration="2783000" />
+      <workItem from="1602110668936" duration="602000" />
+      <workItem from="1602138434483" duration="7612000" />
+      <workItem from="1602532875668" duration="1294000" />
+      <workItem from="1602686081697" duration="1895000" />
+      <workItem from="1603891553741" duration="11813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="202" key="#Inspections" timestamp="1603921618535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="202" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603921618535" />
+    <state x="1195" y="347" key="#Notifications" timestamp="1603921286992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1195" y="347" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603921286992" />
+    <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602110427049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602110427049" />
+    <state x="1196" y="263" key="FileChooserDialogImpl" timestamp="1602145353652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1196" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602145353652" />
+    <state x="1294" y="419" key="Github.ShareDialog" timestamp="1602111244839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1294" y="419" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602111244839" />
+    <state x="1241" y="226" key="Github.UntrackedFilesDialog" timestamp="1602111252031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1241" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602111252031" />
+    <state x="1008" y="254" key="Vcs.Push.Dialog.v2" timestamp="1603923216821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603923216821" />
+    <state x="777" y="53" width="874" height="698" key="dock-window-1" timestamp="1602539933372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="53" width="874" height="698" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602539933372" />
   </component>
 </project>
